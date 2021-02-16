@@ -1,0 +1,4 @@
+﻿  Persik.cpp
+C:\Users\musae\source\repos\Persik\Persik\Persik.cpp(28,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\musae\source\repos\Persik\Persik\Persik.cpp(53,23): warning C4018: <=: несоответствие типов со знаком и без знака
+  Persik.vcxproj -> C:\Users\musae\source\repos\Persik\Debug\Persik.exe
